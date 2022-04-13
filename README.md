@@ -17,7 +17,7 @@
 
 | NetWork | steps |opt| image_size | batch_size |dataset|memory|card|  mIou  |                                                     config                                                     |                          weight                           |             log             |
 |:-------:|:-----:| :---: |:----------:|:----------:| :---: | :---: | :---: |:------:|:--------------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------:|:---------------------------:|
-|  CCNet  |  60K  |SGD|  769x769   |     8      |CityScapes|32G|4| 80.95% | [ccnet_resnet101_os8_cityscapes_769x769_60k.yml](configs/ccnet/ccnet_resnet101_os8_cityscapes_769x769_60k.yml) | [link 提取码：z1da](https://pan.baidu.com/s/108xV62Mmn8wztX2gxKsHLQ ) | [log](train_log/trainer-log.txt) |
+|  CCNet  |  60K  |SGD|  769x769   |     8      |CityScapes|32G|4| 80.95% | [ccnet_resnet101_os8_cityscapes_769x769_60k.yml](configs/ccnet/ccnet_resnet101_os8_cityscapes_769x769_60k.yml) | [model 提取码：wwiw](https://pan.baidu.com/s/1__XKPAS9sm4yRjXLE5XRiA ) | [log](train_log/trainer-log.txt) |
 
 ## 3 数据集
 [CityScapes dataset](https://www.cityscapes-dataset.com/)
