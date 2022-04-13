@@ -3,7 +3,9 @@
 
 ## 1 简介
 ![images](images/network.png)  
-本项目基于paddlepaddle框架复现了CCNet语义分割模型.
+本项目基于paddlepaddle框架复现了CCNet语义分割模型.    
+预测效果如下：
+![example.png](images/example.png)
 
 **论文：**
 - [1] Huang Z, Wang X, Huang L, et al. [CCNet: Criss-Cross Attention for Semantic Segmentation](https://arxiv.org/abs/1811.11721)
