@@ -120,7 +120,7 @@ bash test_tipc/test_train_inference_python.sh ./test_tipc/configs/ccnet/train_in
 | 框架版本 | PaddlePaddle==2.2.2                                                                                                                             |
 | 应用场景 | 语义分割                                                                                                                                            |
 | 硬件支持 | GPU、CPU                                                                                                                                         |
-| 在线体验 | [notebook] |
+| 在线体验 | [notebook在线体验](https://aistudio.baidu.com/aistudio/projectdetail/3799729?contributionType=1) |
 
 
 ## 7 Citation
